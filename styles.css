@@ -1,2 +1,6 @@
 h1 { color:purple;}
-.quote {border-left: 4px brown solid;}
+.quote {border-left: 4px brown solid;
+        padding-left: 20px;
+        margin-left: 20px;
+        font-style: italic;
+}
