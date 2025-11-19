@@ -9,3 +9,5 @@ h1 { color:purple; display: inline-block;}
     margin-left: 40px;
     color:cornflowerblue;
 }
+a:link{ color: blueviolet ;}
+a:visited { color:pink ;}
